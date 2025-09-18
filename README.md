@@ -1,7 +1,6 @@
 # Multiple Disease Prediction System
 
-A Streamlit web application that predicts the risk of cardiovascular disease, diabetes, and anemia using machine learning models.
-
+A Streamlit app that predicts the risk of cardiovascular disease, diabetes, and anemia using machine learning models.
 ## Features
 - Predict cardiovascular disease risk
 - Predict diabetes risk  
