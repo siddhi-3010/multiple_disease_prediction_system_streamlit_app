@@ -6,7 +6,7 @@ A Streamlit web application that predicts the risk of cardiovascular disease, di
 - Predict cardiovascular disease risk
 - Predict diabetes risk  
 - Predict anemia risk
-- Easy-to-use web interface
+- Easy-to-use web app interface
 - Instant results with recommendations
 
 ## How to Use
